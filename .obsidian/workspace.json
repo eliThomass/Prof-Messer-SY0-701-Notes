@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quizzes/Quiz-2.3.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiz-2.3"
+              "title": "2.4 An Overview of Malware"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quizzes/Quiz-2.3.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quiz-2.3"
+              "title": "Backlinks for 2.4 An Overview of Malware"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quizzes/Quiz-2.3.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quiz-2.3"
+              "title": "Outgoing links from 2.4 An Overview of Malware"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quizzes/Quiz-2.3.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quiz-2.3"
+              "title": "Outline of 2.4 An Overview of Malware"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "34e87348473bb3b9",
   "lastOpenFiles": [
+    "Quizzes/Quiz-2.3.md",
     "Quizzes/Quiz-2.1.md",
     "Quizzes/Quiz-2.2.md",
-    "Quizzes/Quiz-2.3.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.3 Memory Injections.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.2 Common Threat Vectors.md",
