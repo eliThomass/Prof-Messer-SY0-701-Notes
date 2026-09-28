@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34e87348473bb3b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.4 An Overview of Malware"
-            }
-          },
-          {
             "id": "e405f073734a0470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - General Security Concepts/1.4 Public Key Infrastructure.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.5 Segmentation and Access Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Public Key Infrastructure"
+              "title": "2.5 Segmentation and Access Control"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.5 Segmentation and Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.4 An Overview of Malware"
+              "title": "Backlinks for 2.5 Segmentation and Access Control"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.5 Segmentation and Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.4 An Overview of Malware"
+              "title": "Outgoing links from 2.5 Segmentation and Access Control"
             }
           },
           {
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
+                "file": "2 - Threats, Vulnerabilities, and Mitigations/2.5 Segmentation and Access Control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.4 An Overview of Malware"
+              "title": "Outline of 2.5 Segmentation and Access Control"
             }
           }
         ]
@@ -197,15 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "34e87348473bb3b9",
+  "active": "e405f073734a0470",
   "lastOpenFiles": [
+    "Quizzes/Quiz-2.4.md",
+    "1 - General Security Concepts/1.4 Public Key Infrastructure.md",
+    "2 - Threats, Vulnerabilities, and Mitigations/2.5 Segmentation and Access Control.md",
+    "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
+    "Media/Screenshot 2026-09-24 at 9.51.05 AM.png",
+    "Media/Screenshot 2026-09-24 at 9.40.11 AM.png",
+    "Media/Screenshot 2026-09-21 at 6.32.44 PM.png",
     "Quizzes/Quiz-2.3.md",
     "Quizzes/Quiz-2.1.md",
     "Quizzes/Quiz-2.2.md",
-    "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.3 Memory Injections.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.2 Common Threat Vectors.md",
-    "1 - General Security Concepts/1.4 Public Key Infrastructure.md",
     "Media/Screenshot 2026-09-15 at 9.49.07 AM.png",
     "Media/Pasted image 20260914135027.png",
     "2 - Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors.md",
@@ -222,9 +213,6 @@
     "Media/Screenshot 2026-09-10 at 6.22.51 PM.png",
     "Quizzes/Quiz-1.3.md",
     "1 - General Security Concepts/1.3 Change Management.md",
-    "Media/Screenshot 2026-09-09 at 3.28.16 PM.png",
-    "Media/Screenshot 2026-09-09 at 3.14.17 PM.png",
-    "Media/Screenshot 2026-09-09 at 2.46.45 PM.png",
     "1 - General Security Concepts/1.2 The CIA Triad.md",
     "1 - General Security Concepts/1.1 Security Controls.md",
     "Practice-Exams/CompTIA Security+ Practice Exams SY0-701 - 027935207.pdf",
