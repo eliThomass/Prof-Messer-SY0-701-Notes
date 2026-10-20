@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Operations and Incident Response/4.1 Secure Baselines.md",
+                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Secure Baselines"
+              "title": "4.5 Firewalls"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Operations and Incident Response/4.1 Secure Baselines.md",
+                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.1 Secure Baselines"
+              "title": "Backlinks for 4.5 Firewalls"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Operations and Incident Response/4.1 Secure Baselines.md",
+                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4.1 Secure Baselines"
+              "title": "Outgoing links from 4.5 Firewalls"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Operations and Incident Response/4.1 Secure Baselines.md",
+                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.1 Secure Baselines"
+              "title": "Outline of 4.5 Firewalls"
             }
           }
         ]
@@ -185,10 +185,18 @@
   },
   "active": "e405f073734a0470",
   "lastOpenFiles": [
+    "Quizzes/Quiz-4.4.md",
+    "4 - Operations and Incident Response/4.4 Security Monitoring.md",
+    "4 - Operations and Incident Response/4.3 Vulnerability Scanning.md",
+    "4 - Operations and Incident Response/4.5 Firewalls.md",
+    "Media/Screenshot 2026-10-19 at 6.56.02 PM.png",
+    "Quizzes/Quiz-4.3.md",
+    "Quizzes/Quiz-4.2.md",
+    "4 - Operations and Incident Response/4.2 Asset Management.md",
+    "4 - Operations and Incident Response/4.1 Secure Baselines.md",
     "Quizzes/Quiz-4.1.md",
     "Quizzes/Quiz-3.4.md",
     "3 - Security Architecture/3.4 Resiliency.md",
-    "4 - Operations and Incident Response/4.1 Secure Baselines.md",
     "4 - Operations and Incident Response",
     "3 - Security Architecture/Untitled",
     "3 - Security Architecture/3.3 Data Types and Classifications.md",
@@ -212,18 +220,10 @@
     "1 - General Security Concepts/1.4 Public Key Infrastructure.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.2 Common Threat Vectors.md",
     "2 - Threats, Vulnerabilities, and Mitigations/2.3 Memory Injections.md",
-    "Quizzes/Quiz-2.4.md",
     "Media/Screenshot 2026-09-24 at 9.51.05 AM.png",
     "Media/Screenshot 2026-09-24 at 9.40.11 AM.png",
     "Media/Screenshot 2026-09-21 at 6.32.44 PM.png",
-    "Quizzes/Quiz-2.3.md",
-    "Quizzes/Quiz-2.1.md",
-    "Quizzes/Quiz-2.2.md",
     "Media/Screenshot 2026-09-15 at 9.49.07 AM.png",
-    "Media/Pasted image 20260914135027.png",
-    "2 - Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors.md",
-    "Quizzes/Quiz-1.4.md",
-    "Quizzes/Quiz-1.1.md",
     "2 - Threats, Vulnerabilities, and Mitigations",
     "1 - General Security Concepts/Untitled",
     "Practice-Exams/CompTIA Security+ Practice Exams SY0-701 - 027935207.pdf",
