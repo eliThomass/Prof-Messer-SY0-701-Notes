@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
+                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 Firewalls"
+              "title": "5.1 Security Policies"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
+                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.5 Firewalls"
+              "title": "Backlinks for 5.1 Security Policies"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
+                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4.5 Firewalls"
+              "title": "Outgoing links from 5.1 Security Policies"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Operations and Incident Response/4.5 Firewalls.md",
+                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.5 Firewalls"
+              "title": "Outline of 5.1 Security Policies"
             }
           }
         ]
@@ -185,10 +185,23 @@
   },
   "active": "e405f073734a0470",
   "lastOpenFiles": [
+    "Quizzes/Quiz-4.8.md",
+    "4 - Operations and Incident Response/4.9 Log Data.md",
+    "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
+    "5 - Governance, Risk, and Complicance",
+    "4 - Operations and Incident Response/Untitled",
+    "4 - Operations and Incident Response/4.8 Incident Response.md",
+    "Quizzes/Quiz-4.7.md",
+    "4 - Operations and Incident Response/4.7 Scripting and Automation.md",
+    "Quizzes/Quiz-4.6.md",
+    "Quizzes/Quiz-4.5.md",
+    "4 - Operations and Incident Response/4.6 Identity and Access Management.md",
+    "Media/Screenshot 2026-10-30 at 10.47.47 AM.png",
+    "4 - Operations and Incident Response/4.5 Firewalls.md",
+    "Media/Screenshot 2026-10-21 at 11.04.14 AM.png",
     "Quizzes/Quiz-4.4.md",
     "4 - Operations and Incident Response/4.4 Security Monitoring.md",
     "4 - Operations and Incident Response/4.3 Vulnerability Scanning.md",
-    "4 - Operations and Incident Response/4.5 Firewalls.md",
     "Media/Screenshot 2026-10-19 at 6.56.02 PM.png",
     "Quizzes/Quiz-4.3.md",
     "Quizzes/Quiz-4.2.md",
@@ -210,27 +223,14 @@
     "Media/Screenshot 2026-10-05 at 4.29.57 PM.png",
     "Media/Screenshot 2026-10-05 at 4.22.26 PM.png",
     "Media/Screenshot 2026-10-01 at 9.44.55 AM.png",
-    "2 - Threats, Vulnerabilities, and Mitigations/2.5 Segmentation and Access Control.md",
     "3 - Security Architecture",
-    "Quizzes/Quiz-2.5.md",
-    "2 - Threats, Vulnerabilities, and Mitigations/2.4 An Overview of Malware.md",
-    "1 - General Security Concepts/1.1 Security Controls.md",
-    "1 - General Security Concepts/1.2 The CIA Triad.md",
-    "1 - General Security Concepts/1.3 Change Management.md",
-    "1 - General Security Concepts/1.4 Public Key Infrastructure.md",
-    "2 - Threats, Vulnerabilities, and Mitigations/2.2 Common Threat Vectors.md",
-    "2 - Threats, Vulnerabilities, and Mitigations/2.3 Memory Injections.md",
     "Media/Screenshot 2026-09-24 at 9.51.05 AM.png",
     "Media/Screenshot 2026-09-24 at 9.40.11 AM.png",
-    "Media/Screenshot 2026-09-21 at 6.32.44 PM.png",
-    "Media/Screenshot 2026-09-15 at 9.49.07 AM.png",
     "2 - Threats, Vulnerabilities, and Mitigations",
     "1 - General Security Concepts/Untitled",
     "Practice-Exams/CompTIA Security+ Practice Exams SY0-701 - 027935207.pdf",
     "Quizzes/Quiz-1.2.html",
     "Quizzes/Quiz-1.1.html",
-    "Quizzes",
-    "Media",
     "Untitled.canvas"
   ]
 }
