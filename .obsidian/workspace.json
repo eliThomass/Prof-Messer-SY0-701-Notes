@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
+                "file": "5 - Governance, Risk, and Complicance/5.3 Third-party Risk Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 Security Policies"
+              "title": "5.3 Third-party Risk Assessment"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
+                "file": "5 - Governance, Risk, and Complicance/5.3 Third-party Risk Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5.1 Security Policies"
+              "title": "Backlinks for 5.3 Third-party Risk Assessment"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
+                "file": "5 - Governance, Risk, and Complicance/5.3 Third-party Risk Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5.1 Security Policies"
+              "title": "Outgoing links from 5.3 Third-party Risk Assessment"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
+                "file": "5 - Governance, Risk, and Complicance/5.3 Third-party Risk Assessment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.1 Security Policies"
+              "title": "Outline of 5.3 Third-party Risk Assessment"
             }
           }
         ]
@@ -185,9 +185,17 @@
   },
   "active": "e405f073734a0470",
   "lastOpenFiles": [
+    "Quizzes/Quiz-5.3.md",
+    "Quizzes/Quiz-5.2.md",
+    "Quizzes/Quiz-5.1.md",
+    "Quizzes/Quiz-4.9.md",
+    "5 - Governance, Risk, and Complicance/5.4 Compliance.md",
+    "5 - Governance, Risk, and Complicance/5.3 Third-party Risk Assessment.md",
+    "5 - Governance, Risk, and Complicance/5.2 Risk Management.md",
+    "Screenshot 2026-11-09 at 7.41.21 AM.png",
+    "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
     "Quizzes/Quiz-4.8.md",
     "4 - Operations and Incident Response/4.9 Log Data.md",
-    "5 - Governance, Risk, and Complicance/5.1 Security Policies.md",
     "5 - Governance, Risk, and Complicance",
     "4 - Operations and Incident Response/Untitled",
     "4 - Operations and Incident Response/4.8 Incident Response.md",
@@ -209,23 +217,15 @@
     "4 - Operations and Incident Response/4.1 Secure Baselines.md",
     "Quizzes/Quiz-4.1.md",
     "Quizzes/Quiz-3.4.md",
-    "3 - Security Architecture/3.4 Resiliency.md",
     "4 - Operations and Incident Response",
     "3 - Security Architecture/Untitled",
-    "3 - Security Architecture/3.3 Data Types and Classifications.md",
-    "Quizzes/Quiz-3.3.md",
-    "Quizzes/Quiz-3.2.md",
-    "3 - Security Architecture/3.2 Secure Infrastructures.md",
     "Media/Screenshot 2026-10-11 at 8.33.22 PM.png",
     "Media/Screenshot 2026-10-11 at 8.27.02 PM.png",
-    "3 - Security Architecture/3.1 Cloud Infrastructure.md",
-    "Quizzes/Quiz-3.1.md",
     "Media/Screenshot 2026-10-05 at 4.29.57 PM.png",
     "Media/Screenshot 2026-10-05 at 4.22.26 PM.png",
     "Media/Screenshot 2026-10-01 at 9.44.55 AM.png",
     "3 - Security Architecture",
     "Media/Screenshot 2026-09-24 at 9.51.05 AM.png",
-    "Media/Screenshot 2026-09-24 at 9.40.11 AM.png",
     "2 - Threats, Vulnerabilities, and Mitigations",
     "1 - General Security Concepts/Untitled",
     "Practice-Exams/CompTIA Security+ Practice Exams SY0-701 - 027935207.pdf",
